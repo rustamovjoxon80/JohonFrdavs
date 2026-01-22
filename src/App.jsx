@@ -1,12 +1,12 @@
-
+Footer
 import './App.css'
+import Footer from './component/footer'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      
+      <Footer/>
     </>
   )
 }
