@@ -1,0 +1,63 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FBF8F5;
+}
+
+
+.card_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.card{
+    width: 233px;
+    height: 400px;
+    background-color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card img{
+    margin-top: 50px;
+}
+
+.name {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.price{
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.orange{
+    color: #E9672B;
+}
+
+.grey{
+    color: #4F4F4F;
+}
+
+.centre2{
+    margin-top: 280px;
+    text-align: center;
+}
+
+.centre{
+    text-align: center;
+    color: #E9672B;
+    margin-top: 50px;
+}

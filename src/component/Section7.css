@@ -1,0 +1,32 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.again{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.agin_text h1 {
+    font-size: 36px;
+    font-weight: 500;   
+}
+
+.again_text p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.again_text span {
+    font-size: 18px;
+    color: #E9672B;
+    position: relative;
+    top: 30px;
+}

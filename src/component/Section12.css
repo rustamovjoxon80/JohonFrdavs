@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shop{
+    padding: 16px 40px;
+    background-color: #E9672B;
+    border: none;
+    border-radius: 88px;
+    color: black;
+}
+
+.Free{
+    text-align: center;
+}
+
+
+.Free h1 {
+    margin-top: 41px;
+}
+
+.Free button{
+    margin-top: 40px;
+}
+
+.Free img{
+    margin-top: 120px;
+}
